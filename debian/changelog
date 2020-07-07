@@ -1,3 +1,9 @@
+glibc (2.27-3ubuntu1.2bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Tue, 07 Jul 2020 11:00:12 +0200
+
 glibc (2.27-3ubuntu1.2) bionic-security; urgency=medium
 
   * SECURITY UPDATE: integer overflow in realpath
