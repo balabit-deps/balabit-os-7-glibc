@@ -1,3 +1,9 @@
+glibc (2.27-3ubuntu1.4bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Sat, 19 Dec 2020 04:28:33 +0100
+
 glibc (2.27-3ubuntu1.4) bionic; urgency=medium
 
   [ Balint Reczey ]
